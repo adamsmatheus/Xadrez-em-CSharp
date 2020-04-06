@@ -1,0 +1,12 @@
+/Users/adams/Projects/Xadrez/Xadrez/bin/Debug/netcoreapp3.1/Xadrez.deps.json
+/Users/adams/Projects/Xadrez/Xadrez/bin/Debug/netcoreapp3.1/Xadrez.runtimeconfig.json
+/Users/adams/Projects/Xadrez/Xadrez/bin/Debug/netcoreapp3.1/Xadrez.runtimeconfig.dev.json
+/Users/adams/Projects/Xadrez/Xadrez/bin/Debug/netcoreapp3.1/Xadrez.dll
+/Users/adams/Projects/Xadrez/Xadrez/bin/Debug/netcoreapp3.1/Xadrez.pdb
+/Users/adams/Projects/Xadrez/Xadrez/obj/Debug/netcoreapp3.1/Xadrez.csprojAssemblyReference.cache
+/Users/adams/Projects/Xadrez/Xadrez/obj/Debug/netcoreapp3.1/Xadrez.csproj.CoreCompileInputs.cache
+/Users/adams/Projects/Xadrez/Xadrez/obj/Debug/netcoreapp3.1/Xadrez.AssemblyInfoInputs.cache
+/Users/adams/Projects/Xadrez/Xadrez/obj/Debug/netcoreapp3.1/Xadrez.AssemblyInfo.cs
+/Users/adams/Projects/Xadrez/Xadrez/obj/Debug/netcoreapp3.1/Xadrez.dll
+/Users/adams/Projects/Xadrez/Xadrez/obj/Debug/netcoreapp3.1/Xadrez.pdb
+/Users/adams/Projects/Xadrez/Xadrez/obj/Debug/netcoreapp3.1/Xadrez.genruntimeconfig.cache
