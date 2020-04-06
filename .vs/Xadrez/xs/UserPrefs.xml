@@ -1,24 +1,25 @@
 ﻿<Properties StartupConfiguration="{4F2C5ED6-3DB8-4B36-829D-A75116426763}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Xadrez/Xadrez/Torre.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xadrez/Tabuleiro/TabuleiroException.cs">
     <Files>
-      <File FileName="Xadrez/Program.cs" Line="12" Column="41" />
+      <File FileName="Xadrez/Program.cs" Line="14" Column="36" />
       <File FileName="Xadrez/Tabuleiro/Posicao.cs" Line="13" Column="18" />
       <File FileName="Xadrez/Tabuleiro/Cor.cs" Line="4" Column="12" />
       <File FileName="Xadrez/Tabuleiro/Peca.cs" Line="16" Column="32" />
-      <File FileName="Xadrez/Tabuleiro/Taboleiro.cs" Line="30" Column="10" />
+      <File FileName="Xadrez/Tabuleiro/Taboleiro.cs" Line="38" Column="25" />
       <File FileName="Xadrez/Tela.cs" Line="22" Column="41" />
-      <File FileName="Xadrez/Xadrez/Rei.cs" Line="18" Column="24" />
-      <File FileName="Xadrez/Xadrez/Torre.cs" Line="8" Column="3" />
+      <File FileName="Xadrez/Xadrez/Rei.cs" Line="19" Column="10" />
+      <File FileName="Xadrez/Xadrez/Torre.cs" Line="21" Column="1" />
+      <File FileName="Xadrez/Tabuleiro/TabuleiroException.cs" Line="6" Column="48" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Xadrez" expanded="True">
             <Node name="Xadrez" expanded="True">
-              <Node name="Tabuleiro" expanded="True" />
-              <Node name="Xadrez" expanded="True">
-                <Node name="Torre.cs" selected="True" />
+              <Node name="Tabuleiro" expanded="True">
+                <Node name="TabuleiroException.cs" selected="True" />
               </Node>
+              <Node name="Xadrez" expanded="True" />
             </Node>
           </Node>
         </State>
