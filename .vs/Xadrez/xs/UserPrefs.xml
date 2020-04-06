@@ -1,20 +1,20 @@
 ﻿<Properties StartupConfiguration="{4F2C5ED6-3DB8-4B36-829D-A75116426763}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Xadrez/Tabuleiro/Peca.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xadrez/Tela.cs">
     <Files>
-      <File FileName="Xadrez/Program.cs" Line="10" Column="35" />
-      <File FileName="Xadrez/Tabuleiro/Posicao.cs" Line="23" Column="10" />
-      <File FileName="Xadrez/Tabuleiro/Cor.cs" Line="8" Column="1" />
-      <File FileName="Xadrez/Tabuleiro/Peca.cs" Line="15" Column="1" />
-      <File FileName="Xadrez/Tabuleiro/Taboleiro.cs" Line="1" Column="1" />
+      <File FileName="Xadrez/Program.cs" Line="13" Column="32" />
+      <File FileName="Xadrez/Tabuleiro/Posicao.cs" Line="13" Column="18" />
+      <File FileName="Xadrez/Tabuleiro/Cor.cs" Line="4" Column="12" />
+      <File FileName="Xadrez/Tabuleiro/Peca.cs" Line="19" Column="36" />
+      <File FileName="Xadrez/Tabuleiro/Taboleiro.cs" Line="21" Column="41" />
+      <File FileName="Xadrez/Tela.cs" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Xadrez" expanded="True">
             <Node name="Xadrez" expanded="True">
-              <Node name="Tabuleiro" expanded="True">
-                <Node name="Peca.cs" selected="True" />
-              </Node>
+              <Node name="Tabuleiro" expanded="True" />
+              <Node name="Tela.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -22,7 +22,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Xadrez FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Xadrez PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

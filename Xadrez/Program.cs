@@ -9,7 +9,7 @@ namespace Xadrez
         static void Main(string[] args)
         {
             Taboleiro tab = new Taboleiro(8, 8);
-
+            Tela.imprimirTabuleiro(tab);
             Console.ReadLine();
 
         }
