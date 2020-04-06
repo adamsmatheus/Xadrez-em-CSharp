@@ -1,4 +1,6 @@
 ﻿using System;
+using Tabuleiro;
+
 namespace Xadrez.Tabuleiro
 {
     public class Taboleiro
@@ -19,6 +21,12 @@ namespace Xadrez.Tabuleiro
         {
 
             return pecas[linha, coluna];
+        }
+        public void colocarPeca (Peca p , Posicao pos)
+        {
+
+            pecas[pos.Linha, pos.Coluna] = p;
+            p.posicao = pos;
         }
     }
 }
