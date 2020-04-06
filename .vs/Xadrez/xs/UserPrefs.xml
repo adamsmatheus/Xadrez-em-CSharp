@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{4F2C5ED6-3DB8-4B36-829D-A75116426763}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Xadrez/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xadrez/Tabuleiro/Posicao.cs">
     <Files>
       <File FileName="Xadrez/Program.cs" Line="1" Column="1" />
+      <File FileName="Xadrez/Tabuleiro/Posicao.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Xadrez" expanded="True">
             <Node name="Xadrez" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Tabuleiro" expanded="True">
+                <Node name="Posicao.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
